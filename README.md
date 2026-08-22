@@ -12,5 +12,5 @@ Ghidra · Binary Ninja · Burp Suite · pwntools · Wireshark · KQL · Python �
  
 ---
 
-Check out my [security portfolio](https://ssung.xyz)!
+Check out my [security portfolio](https://ssung.xyz/portfolio)!
  
