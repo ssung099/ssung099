@@ -8,7 +8,7 @@ Security researcher focused on binary analysis, offensive testing, and vulnerabi
  
 ## Skills
  
-Ghidra · Binary Ninja · Burp Suite · pwntools · Wireshark · KQL · Python · C/C++ · x86-64 & RISC-V reverse engineering
+Ghidra · Binary Ninja · Burp Suite · pwntools · Wireshark · KQL · Python · C · x86-64
  
 ---
 
