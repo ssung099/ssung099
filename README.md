@@ -12,7 +12,7 @@ Security researcher focused on binary analysis, offensive testing, and vulnerabi
 
 **[Hydroficient IoT Security Assessment](https://github.com/ssung099/hydroficient-iot-externship)** — mTLS, replay defense, and anomaly detection for an MQTT device pipeline.
 
-**[OWASP Juice Shop Penetration Test](https://github.com/ssung099/juice-shop-web-pentest](https://github.com/ssung099/web-app-pentest-report)** — Full web app pentest report, 10 findings including critical SQLi and access control flaws, CVSS v4.0 scored.
+**[OWASP Juice Shop Penetration Test](https://github.com/ssung099/web-app-pentest-report)** — Full web app pentest report, 10 findings including critical SQLi and access control flaws, CVSS v4.0 scored.
 
 **[Cloudora Incident Response Reports](https://github.com/ssung099/cloudora-executive-ato-investigation)** — Simulated client engagements covering account takeover, phishing, and SOC triage.
 
