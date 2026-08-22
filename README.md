@@ -2,7 +2,7 @@
 
 Security researcher focused on binary analysis, offensive testing, and vulnerability research. M.S. Computer Security @ Columbia University.
 
-**Currently:** building the blog series for `tiny-dec`, a RISC-V decompiler, as a Columbia research assistant | competing in CTFs
+**Currently:** building the blog series for `[tiny-dec](https://github.com/ZhangZhuoSJTU/tiny-dec)`, a RISC-V decompiler, as a Columbia research assistant | competing in CTFs
 
 ---
 
