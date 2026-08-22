@@ -2,7 +2,7 @@
 
 Security researcher focused on binary analysis, offensive testing, and vulnerability research. M.S. Computer Security @ Columbia University.
 
-**Currently:** building `tiny-dec`, a RISC-V decompiler, as a Columbia research assistant | competing in CTFs | writing at [ssung.xyz](https://ssung.xyz)
+**Currently:** building `tiny-dec`, a RISC-V decompiler, as a Columbia research assistant | competing in CTFs
 
 ---
 
@@ -26,6 +26,3 @@ Security researcher focused on binary analysis, offensive testing, and vulnerabi
 ## Skills
 
 Ghidra · Binary Ninja · Burp Suite · pwntools · Wireshark · KQL · Python · C/C++ · x86-64 & RISC-V reverse engineering
-
----
-[Portfolio](https://ssung.xyz/portfolio)
